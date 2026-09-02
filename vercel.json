@@ -3,6 +3,10 @@
   "outputDirectory": ".",
   "routes": [
     {
+      "src": "/",
+      "dest": "/portfolio.html"
+    },
+    {
       "handle": "filesystem"
     },
     {
